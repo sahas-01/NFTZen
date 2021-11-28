@@ -1,4 +1,4 @@
-# SportZen ⛓⚽️♜
+# NFTZen ⛓⚽️♜
 
 ## Abstract
 
