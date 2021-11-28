@@ -1,0 +1,5 @@
+# dependencies
+.env
+node_modules
+public
+*.assets1
