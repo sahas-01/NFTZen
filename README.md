@@ -48,5 +48,13 @@ We faced multiple challenges while developing this project
 
 ## Instructions to run
 
+```
+git clone https://github.com/sahas-01/NFTZen
+cd NFTZen
+npm install
+node server.js
+
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
