@@ -1,4 +1,4 @@
-# NFTZen ⛓⚽️♜
+# NFTZen 
 
 ## Abstract
 
